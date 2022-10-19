@@ -9,11 +9,11 @@ void jack_bauer(void)
 {
 	int ht, ho, mt, mo, hm;
 
-	hm= 58;
+	hm = 58;
 	ht = '0';
 	while (ht < '3')
 	{
-		if(ht == '2')
+		if (ht == '2')
 		{
 			hm = '4';
 		}
