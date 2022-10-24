@@ -1,5 +1,6 @@
 #ifndef main_h
 #define main_h
+#include <stddef.h>
 
 void swap_int(int *a, int *b);
 int _strlen(char *s);
